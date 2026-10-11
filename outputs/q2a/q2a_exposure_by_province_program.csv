@@ -1,0 +1,33 @@
+province_code,province,program,s338_exposed_upper_cad
+AB,Alberta,motor_vehicles,1453965307
+AB,Alberta,alcohol,118671383
+AB,Alberta,dairy,4712604
+BC,British Columbia,motor_vehicles,3719142542
+BC,British Columbia,alcohol,62696411
+BC,British Columbia,dairy,19016192
+MB,Manitoba,motor_vehicles,658050934
+MB,Manitoba,alcohol,8562630
+MB,Manitoba,dairy,3315816
+NB,New Brunswick,motor_vehicles,257056216
+NB,New Brunswick,alcohol,8036672
+NB,New Brunswick,dairy,381218
+NL,Newfoundland and Labrador,motor_vehicles,17683725
+NL,Newfoundland and Labrador,alcohol,63015
+NS,Nova Scotia,motor_vehicles,278400402
+NS,Nova Scotia,alcohol,637359
+NT,Northwest Territories,motor_vehicles,1122378
+NU,Nunavut,motor_vehicles,69716
+ON,Ontario,motor_vehicles,15924805844
+ON,Ontario,alcohol,1066416042
+ON,Ontario,dairy,190320050
+PE,Prince Edward Island,motor_vehicles,17561574
+PE,Prince Edward Island,dairy,1452357
+PE,Prince Edward Island,alcohol,8105
+QC,Quebec,motor_vehicles,8394999648
+QC,Quebec,alcohol,659711296
+QC,Quebec,dairy,31718413
+SK,Saskatchewan,motor_vehicles,247649615
+SK,Saskatchewan,dairy,37041227
+SK,Saskatchewan,alcohol,402398
+YT,Yukon,motor_vehicles,415339
+YT,Yukon,alcohol,71386

@@ -1,0 +1,13 @@
+# Large StatCan extracts – regenerate with python3 Q2a.py / Q2b.py
+data/q2a/CIMT-CICM_Dom_Exp_2025/
+data/q2a/CIMT-CICM_Dom_Exp_2025.zip
+data/q2b/14100023-eng.zip
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Private working notes – not for GitHub
+Summary_Q2_working.docx
+Summary_Q2_working.doc
+~$*.docx

@@ -1,0 +1,16 @@
+hs2_start,hs2_end,naics_match_key,goods_sector
+01,05,Agriculture,yes
+06,14,"Forestry, fishing, mining, quarrying, oil and gas",yes
+15,15,"Forestry, fishing, mining, quarrying, oil and gas",yes
+16,24,"Forestry, fishing, mining, quarrying, oil and gas",yes
+25,27,Manufacturing,yes
+28,40,Manufacturing,yes
+41,43,Manufacturing,yes
+44,49,Manufacturing,yes
+50,63,Manufacturing,yes
+64,67,Manufacturing,yes
+68,71,Manufacturing,yes
+72,83,Manufacturing,yes
+84,85,Manufacturing,yes
+86,89,Manufacturing,yes
+90,97,Manufacturing,yes

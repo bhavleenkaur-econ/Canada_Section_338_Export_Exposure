@@ -1,0 +1,6 @@
+province_code,province,lfs_year,s338_exposed_upper_cad,goods_sector_employment,touched_sector_employment,exposed_exports_per_goods_employee_cad,share_of_goods_employment_in_touched_sectors,intensity_weighted_employment,note
+AB,Alberta,2025,1577349294.0,613900.0,331800.0,2569.39125916273,0.540478905359179,4254.942104171072,Illustrative proxy only; not a job-loss forecast
+SK,Saskatchewan,2025,285093240.0,136000.0,81199.99999999999,2096.273823529412,0.5970588235294116,4390.729340397813,Illustrative proxy only; not a job-loss forecast
+ON,Ontario,2025,17181541936.0,1575500.0,931699.9999999999,10905.453466201207,0.591367819739765,81721.36651265777,Illustrative proxy only; not a job-loss forecast
+QC,Quebec,2025,9086429357.0,951700.0,595300.0,9547.577342649995,0.6255122412524955,62641.52521138629,Illustrative proxy only; not a job-loss forecast
+BC,British Columbia,2025,3800855145.0,522799.99999999994,246300.0,7270.1896423106355,0.4711170619739863,31808.70107162798,Illustrative proxy only; not a job-loss forecast

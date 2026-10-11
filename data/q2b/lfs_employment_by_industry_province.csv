@@ -1,0 +1,141 @@
+year,province_code,geography,naics_lfs_label,employment_thousands
+2025,QC,Quebec,"Total, all industries",4644.8
+2025,QC,Quebec,Goods-producing sector,951.7
+2025,QC,Quebec,"Agriculture [111-112, 1100, 1151-1152]",52.0
+2025,QC,Quebec,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",40.0
+2025,QC,Quebec,"Forestry and logging and support activities for forestry [113, 1153]",11.3
+2025,QC,Quebec,"Fishing, hunting and trapping [114]",1.7
+2025,QC,Quebec,"Mining, quarrying, and oil and gas extraction [21, 2100]",27.0
+2025,QC,Quebec,Utilities [22],32.8
+2025,QC,Quebec,Construction [23],323.5
+2025,QC,Quebec,Manufacturing [31-33],503.3
+2025,QC,Quebec,"Durables [321, 327, 331-339]",307.6
+2025,QC,Quebec,"Non-durables [311-316, 322-326]",195.7
+2025,QC,Quebec,Services-producing sector,3693.1
+2025,QC,Quebec,"Wholesale and retail trade [41, 44-45]",662.7
+2025,QC,Quebec,Wholesale trade [41],160.9
+2025,QC,Quebec,Retail trade [44-45],501.8
+2025,QC,Quebec,Transportation and warehousing [48-49],223.6
+2025,QC,Quebec,"Finance, insurance, real estate, rental and leasing [52, 53]",299.2
+2025,QC,Quebec,Finance and insurance [52],225.9
+2025,QC,Quebec,Real estate and rental and leasing [53],73.3
+2025,QC,Quebec,"Professional, scientific and technical services [54]",387.1
+2025,QC,Quebec,"Business, building and other support services [55, 56]",159.5
+2025,QC,Quebec,Educational services [61],382.9
+2025,QC,Quebec,Health care and social assistance [62],677.9
+2025,QC,Quebec,"Information, culture and recreation [51, 71]",186.8
+2025,QC,Quebec,Accommodation and food services [72],245.9
+2025,QC,Quebec,Other services (except public administration) [81],172.6
+2025,QC,Quebec,Public administration [91],294.9
+2025,ON,Ontario,"Total, all industries",8227.0
+2025,ON,Ontario,Goods-producing sector,1575.5
+2025,ON,Ontario,"Agriculture [111-112, 1100, 1151-1152]",65.3
+2025,ON,Ontario,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",44.6
+2025,ON,Ontario,"Forestry and logging and support activities for forestry [113, 1153]",5.3
+2025,ON,Ontario,"Fishing, hunting and trapping [114]",
+2025,ON,Ontario,"Mining, quarrying, and oil and gas extraction [21, 2100]",38.9
+2025,ON,Ontario,Utilities [22],66.3
+2025,ON,Ontario,Construction [23],577.5
+2025,ON,Ontario,Manufacturing [31-33],821.8
+2025,ON,Ontario,"Durables [321, 327, 331-339]",511.2
+2025,ON,Ontario,"Non-durables [311-316, 322-326]",310.6
+2025,ON,Ontario,Services-producing sector,6651.4
+2025,ON,Ontario,"Wholesale and retail trade [41, 44-45]",1150.8
+2025,ON,Ontario,Wholesale trade [41],285.3
+2025,ON,Ontario,Retail trade [44-45],865.6
+2025,ON,Ontario,Transportation and warehousing [48-49],417.9
+2025,ON,Ontario,"Finance, insurance, real estate, rental and leasing [52, 53]",717.9
+2025,ON,Ontario,Finance and insurance [52],546.0
+2025,ON,Ontario,Real estate and rental and leasing [53],171.9
+2025,ON,Ontario,"Professional, scientific and technical services [54]",911.1
+2025,ON,Ontario,"Business, building and other support services [55, 56]",278.5
+2025,ON,Ontario,Educational services [61],601.4
+2025,ON,Ontario,Health care and social assistance [62],1021.8
+2025,ON,Ontario,"Information, culture and recreation [51, 71]",352.8
+2025,ON,Ontario,Accommodation and food services [72],439.2
+2025,ON,Ontario,Other services (except public administration) [81],288.7
+2025,ON,Ontario,Public administration [91],471.3
+2025,SK,Saskatchewan,"Total, all industries",617.4
+2025,SK,Saskatchewan,Goods-producing sector,136.0
+2025,SK,Saskatchewan,"Agriculture [111-112, 1100, 1151-1152]",28.6
+2025,SK,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",23.2
+2025,SK,Saskatchewan,"Forestry and logging and support activities for forestry [113, 1153]",1.0
+2025,SK,Saskatchewan,"Fishing, hunting and trapping [114]",
+2025,SK,Saskatchewan,"Mining, quarrying, and oil and gas extraction [21, 2100]",22.3
+2025,SK,Saskatchewan,Utilities [22],7.0
+2025,SK,Saskatchewan,Construction [23],47.7
+2025,SK,Saskatchewan,Manufacturing [31-33],29.4
+2025,SK,Saskatchewan,"Durables [321, 327, 331-339]",15.6
+2025,SK,Saskatchewan,"Non-durables [311-316, 322-326]",13.8
+2025,SK,Saskatchewan,Services-producing sector,481.4
+2025,SK,Saskatchewan,"Wholesale and retail trade [41, 44-45]",97.5
+2025,SK,Saskatchewan,Wholesale trade [41],26.5
+2025,SK,Saskatchewan,Retail trade [44-45],70.9
+2025,SK,Saskatchewan,Transportation and warehousing [48-49],27.1
+2025,SK,Saskatchewan,"Finance, insurance, real estate, rental and leasing [52, 53]",29.1
+2025,SK,Saskatchewan,Finance and insurance [52],22.1
+2025,SK,Saskatchewan,Real estate and rental and leasing [53],7.0
+2025,SK,Saskatchewan,"Professional, scientific and technical services [54]",33.3
+2025,SK,Saskatchewan,"Business, building and other support services [55, 56]",13.6
+2025,SK,Saskatchewan,Educational services [61],54.9
+2025,SK,Saskatchewan,Health care and social assistance [62],102.7
+2025,SK,Saskatchewan,"Information, culture and recreation [51, 71]",22.3
+2025,SK,Saskatchewan,Accommodation and food services [72],32.7
+2025,SK,Saskatchewan,Other services (except public administration) [81],27.3
+2025,SK,Saskatchewan,Public administration [91],40.8
+2025,AB,Alberta,"Total, all industries",2590.1
+2025,AB,Alberta,Goods-producing sector,613.9
+2025,AB,Alberta,"Agriculture [111-112, 1100, 1151-1152]",37.9
+2025,AB,Alberta,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",144.4
+2025,AB,Alberta,"Forestry and logging and support activities for forestry [113, 1153]",4.1
+2025,AB,Alberta,"Fishing, hunting and trapping [114]",
+2025,AB,Alberta,"Mining, quarrying, and oil and gas extraction [21, 2100]",140.2
+2025,AB,Alberta,Utilities [22],22.8
+2025,AB,Alberta,Construction [23],259.3
+2025,AB,Alberta,Manufacturing [31-33],149.5
+2025,AB,Alberta,"Durables [321, 327, 331-339]",85.4
+2025,AB,Alberta,"Non-durables [311-316, 322-326]",64.1
+2025,AB,Alberta,Services-producing sector,1976.2
+2025,AB,Alberta,"Wholesale and retail trade [41, 44-45]",360.9
+2025,AB,Alberta,Wholesale trade [41],95.4
+2025,AB,Alberta,Retail trade [44-45],265.5
+2025,AB,Alberta,Transportation and warehousing [48-49],151.8
+2025,AB,Alberta,"Finance, insurance, real estate, rental and leasing [52, 53]",144.9
+2025,AB,Alberta,Finance and insurance [52],91.1
+2025,AB,Alberta,Real estate and rental and leasing [53],53.8
+2025,AB,Alberta,"Professional, scientific and technical services [54]",245.9
+2025,AB,Alberta,"Business, building and other support services [55, 56]",82.3
+2025,AB,Alberta,Educational services [61],175.0
+2025,AB,Alberta,Health care and social assistance [62],339.1
+2025,AB,Alberta,"Information, culture and recreation [51, 71]",91.8
+2025,AB,Alberta,Accommodation and food services [72],154.6
+2025,AB,Alberta,Other services (except public administration) [81],97.6
+2025,AB,Alberta,Public administration [91],132.5
+2025,BC,British Columbia,"Total, all industries",2946.2
+2025,BC,British Columbia,Goods-producing sector,522.8
+2025,BC,British Columbia,"Agriculture [111-112, 1100, 1151-1152]",16.3
+2025,BC,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",43.9
+2025,BC,British Columbia,"Forestry and logging and support activities for forestry [113, 1153]",14.7
+2025,BC,British Columbia,"Fishing, hunting and trapping [114]",
+2025,BC,British Columbia,"Mining, quarrying, and oil and gas extraction [21, 2100]",27.9
+2025,BC,British Columbia,Utilities [22],14.3
+2025,BC,British Columbia,Construction [23],262.2
+2025,BC,British Columbia,Manufacturing [31-33],186.1
+2025,BC,British Columbia,"Durables [321, 327, 331-339]",114.5
+2025,BC,British Columbia,"Non-durables [311-316, 322-326]",71.6
+2025,BC,British Columbia,Services-producing sector,2423.4
+2025,BC,British Columbia,"Wholesale and retail trade [41, 44-45]",435.6
+2025,BC,British Columbia,Wholesale trade [41],95.8
+2025,BC,British Columbia,Retail trade [44-45],339.8
+2025,BC,British Columbia,Transportation and warehousing [48-49],156.9
+2025,BC,British Columbia,"Finance, insurance, real estate, rental and leasing [52, 53]",189.4
+2025,BC,British Columbia,Finance and insurance [52],121.9
+2025,BC,British Columbia,Real estate and rental and leasing [53],67.4
+2025,BC,British Columbia,"Professional, scientific and technical services [54]",313.7
+2025,BC,British Columbia,"Business, building and other support services [55, 56]",95.0
+2025,BC,British Columbia,Educational services [61],225.2
+2025,BC,British Columbia,Health care and social assistance [62],413.3
+2025,BC,British Columbia,"Information, culture and recreation [51, 71]",133.5
+2025,BC,British Columbia,Accommodation and food services [72],190.7
+2025,BC,British Columbia,Other services (except public administration) [81],113.0
+2025,BC,British Columbia,Public administration [91],157.2
